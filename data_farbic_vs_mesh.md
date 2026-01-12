@@ -60,6 +60,8 @@ than centralized into a single platform group.
 
 ## Data Fabric
 
+![DataFrabic](./DataFabric.png)
+
 ### Definition
 
 **Data Fabric** is a technology-centric architecture that provides a unified,
