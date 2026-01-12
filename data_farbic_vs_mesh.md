@@ -60,7 +60,7 @@ than centralized into a single platform group.
 
 ## Data Fabric
 
-![DataFrabic](./data_fabric.png)
+![Data_Frabic](./data_fabric.png)
 
 ### Definition
 
